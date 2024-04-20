@@ -1,0 +1,4 @@
+redis:
+  host: "redis-10422.c11.us-east-1-3.ec2.cloud.redislabs.com"
+  port: 10422
+  password: "iOw8FfIaOmjXZQnWMCBo3VBzDzle6kVe"
